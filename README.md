@@ -15,15 +15,15 @@ Data visualization using charts and graphs
 Statistical analysis of weather patterns
 
 🛠️ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱
-Python
-Pandas
-NumPy
-Matplotlib
+Python,
+Pandas,
+NumPy,
+Matplotlib,
 Jupyter Notebook
 
 📚 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 𝗨𝘀𝗲𝗱
-Pandas for data manipulation and analysis
-NumPy for numerical operations
+Pandas for data manipulation and analysis,
+NumPy for numerical operations,
 Matplotlib for data visualization
 
 📊 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲𝘀
