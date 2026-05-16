@@ -67,26 +67,7 @@ Weather-Analysis-Using-Python-Pandas/
 ├── README.md
 ```
 
----
-
-# ▶️ How to Run the Project
-
-1. Clone the repository  
-
-```bash id="o0mjlwm"
-git clone <your-repository-link>
-```
-
-2. Open the project folder  
-
-3. Launch Jupyter Notebook  
-
-```bash id="2gs5ll"
-jupyter notebook
-```
-
-4. Open the notebook file and run all cells  
-
+--
 ---
 
 # 📊 Sample Analysis Performed
